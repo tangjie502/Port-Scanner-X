@@ -1,8 +1,8 @@
-package com.ps.portscannerx.controller;
+package com.ps.controller;
 
-import com.ps.portscannerx.dto.ScanResult;
-import com.ps.portscannerx.entity.ScanRequest;
-import com.ps.portscannerx.server.PortScannerService;
+import com.ps.dto.ScanResult;
+import com.ps.entity.ScanRequest;
+import com.ps.server.PortScannerService;
 import lombok.extern.slf4j.Slf4j; // 引入日志框架
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

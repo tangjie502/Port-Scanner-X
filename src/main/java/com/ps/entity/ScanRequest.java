@@ -1,4 +1,4 @@
-package com.ps.portscannerx.entity;
+package com.ps.entity;
 
 import lombok.Data;
 

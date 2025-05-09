@@ -1,6 +1,6 @@
-package com.ps.portscannerx.server;
+package com.ps.server;
 
-import com.ps.portscannerx.dto.ScanResult;
+import com.ps.dto.ScanResult;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

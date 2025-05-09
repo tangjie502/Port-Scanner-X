@@ -1,4 +1,4 @@
-package com.ps.portscannerx;
+package com.ps;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

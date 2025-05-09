@@ -1,4 +1,4 @@
-package com.ps.portscannerx.dto;
+package com.ps.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

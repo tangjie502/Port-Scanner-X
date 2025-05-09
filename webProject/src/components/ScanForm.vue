@@ -94,7 +94,7 @@ const form = reactive({
   endPort: 1024,
   specificPorts: [],
   timeoutMilliseconds: 500,
-  threadCount: 50,
+  threadCount: 10,
 });
 
 const scanType = ref('range'); // 'range' or 'specific'
